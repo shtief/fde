@@ -1,7 +1,7 @@
 {
   "name": "fde",
-  "version": "1.0.0",
-  "description": "Tools",
+  "version": "0.0.1",
+  "description": "Repo for widget project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,11 +17,7 @@
   },
   "homepage": "https://github.com/shtief/fde#readme",
   "devDependencies": {
-    "chai": "^4.0.2",
-    "grunt": "^1.0.1",
     "i18n-webpack-plugin": "^1.0.0",
-    "mocha": "^3.4.2",
-    "react-redux": "^5.0.5",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0"
   }
